@@ -4,3 +4,4 @@
 # fungsi kali
 # dsb..
 print("hello")
+print(1+2)
